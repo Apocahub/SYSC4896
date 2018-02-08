@@ -1,3 +1,5 @@
+package hello;
+
 import hello.BuddyInfo;
 import org.junit.Test;
 
